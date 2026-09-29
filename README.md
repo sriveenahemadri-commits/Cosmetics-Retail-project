@@ -195,6 +195,9 @@ DATABASE_URL=your_postgresql_connection_string
 Authentication & roles · sales and demand forecasting · low-stock alerts · supplier delivery KPIs · customer segmentation · recommendations · promotion analysis · scheduled reports · advanced profitability · cloud deployment · Supabase CLI migrations
 
 ---
+## 📌 Entity Relationship Diagram of the Database
+<img width="1724" height="2075" alt="ER_Diagram" src="https://github.com/user-attachments/assets/d92a4251-cbd0-4855-b36e-2347991d3130" />
+
 
 ## 📌 Links
 
