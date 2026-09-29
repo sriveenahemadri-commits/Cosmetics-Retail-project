@@ -68,7 +68,6 @@ flowchart LR
 
 <img width="1724" height="2075" alt="ER_Diagram" src="https://github.com/user-attachments/assets/d92a4251-cbd0-4855-b36e-2347991d3130" />
 
-![ER Diagram](docs/ER_Diagram.png)
 
 > 🔗 Live version: [Supabase Schema Visualizer](https://supabase.com/dashboard/project/ffyxmgmueipjlcalzgkg/database/schemas) (requires project login). All relationships are **1 : N** (parent → child).
 
